@@ -1,0 +1,2 @@
+# QazaqApp
+qazaqtin qanatti sozderi
